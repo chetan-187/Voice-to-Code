@@ -1,0 +1,11 @@
+﻿  ConsoleApplication.cpp
+C:\Users\lohka\source\repos\ConsoleApplication\ConsoleApplication\VoicetoCode.h(131,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lohka\source\repos\ConsoleApplication\ConsoleApplication\VoicetoCode.h(190,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lohka\source\repos\ConsoleApplication\ConsoleApplication\VoicetoCode.h(217,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lohka\source\repos\ConsoleApplication\ConsoleApplication\VoicetoCode.h(306,6): warning C4101: 'StartingofI': unreferenced local variable
+C:\Users\lohka\source\repos\ConsoleApplication\ConsoleApplication\VoicetoCode.h(367,6): warning C4101: 'StartingofI': unreferenced local variable
+C:\Users\lohka\source\repos\ConsoleApplication\ConsoleApplication\VoicetoCode.h(559,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lohka\source\repos\ConsoleApplication\ConsoleApplication\VoicetoCode.h(564,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lohka\source\repos\ConsoleApplication\ConsoleApplication\VoicetoCode.h(292): warning C4715: 'inforloop': not all control paths return a value
+C:\Users\lohka\source\repos\ConsoleApplication\ConsoleApplication\VoicetoCode.h(530): warning C4715: 'dataType': not all control paths return a value
+  ConsoleApplication.vcxproj -> C:\Users\lohka\source\repos\ConsoleApplication\x64\Debug\ConsoleApplication.exe
